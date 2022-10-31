@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DAY 1-7</title>
+</head>
+<body>
+  <p>D-1</p>
+  <h1 style="color: red;">Codemarch</h1>
+  <h2>This is Codemarch</h2>
+  <h3>This is Codemarch</h3>
+  <h4 style="color: blue;">This is Codemarch</h4>
+  <h5>This is Codemarch</h5>
+  <h6>This is Codemarch</h6>
+  <p><i>This is italic</i></p>
+  <p><b>This is bold</b></p>
+  <p><sub>This is subcriptied</sub></p>
+  <p><sup>This is superscripted</sup></p>
+</body>
+</html>
